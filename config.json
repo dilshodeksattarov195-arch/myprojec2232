@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsonnect",
+        "uuid": 20509848,
+        "checksum": "zueu0r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
